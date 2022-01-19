@@ -1,0 +1,4 @@
+*.jar
+*.exc
+/bin/
+textdata.xls
