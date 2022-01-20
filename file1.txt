@@ -6,3 +6,6 @@ change - by the teamate.
 
 change : for bug2.
 
+change:- to checkout for stash
+
+
