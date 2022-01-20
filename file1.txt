@@ -2,13 +2,15 @@ hello welcome to the persistent !!!
 
 file1 :- modified.
 
-change - by the teamate.
+change 1:- by the teamate.
 
-change : for bug2.
+change 2:- for bug2.
 
-change:- to checkout for stash
+change 3:- to checkout for stash
 
-change:- new update
+change 4:- new update
+
+change 5:- to check conflict in remote .
 
 change:- remote changes
 
